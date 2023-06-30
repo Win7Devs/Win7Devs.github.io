@@ -5,4 +5,5 @@ title: Win7DT's Homepage
 description: Fun projects and stuff! Also the developer of MassiveMP.
 markdown: GFM
 include: affl.html
+baseurl: ""
 url: "https://win7devs.github.io"
